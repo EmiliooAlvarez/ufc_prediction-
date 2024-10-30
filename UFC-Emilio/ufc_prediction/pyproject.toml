@@ -1,0 +1,7 @@
+[project]
+name = "ufc-prediction"
+version = "0.1.0"
+description = "THIS UFC PREDICTION IS 100% ACCURATE, DESIGNED BY EMILIO "
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
